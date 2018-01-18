@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActividadDialegs</string>
+
+    <string name="colores">
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+    </string>
+</resources>
